@@ -88,9 +88,9 @@ fine-tuning Random Forest for optimal performance.
 - Achieved 84% recall and 81% F1-score, prioritizing recall to better detect at-risk customers.
 - Identified key churn factors and provided data-driven retention strategies and business insights.
 
-<!-- 
-[Finetune-Distill-Quantize-ORT](https://github.com/That1Panda/Finetune-Distill-Quantize-ORT)
--->
+ 
+[Churn-Prediction](https://github.com/LinaSawwan/Churn-Prediction)
+
 
 **Tools & Technologies:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
@@ -106,9 +106,9 @@ Graduation Project
 communication system using Python and GNU radio software.
 - Optimized the system using Machine Learning with of up to 98%.
 
-<!-- 
-[Finetune-Distill-Quantize-ORT](https://github.com/That1Panda/Finetune-Distill-Quantize-ORT)
--->
+ 
+[ML-Based-Adaptive-Modulation-Coding-for-OFDM-Communication-Systems](https://github.com/LinaSawwan/ML-Based-Adaptive-Modulation-Coding-for-OFDM-Communication-Systems)
+
 
 
 **Tools & Technologies:**  
@@ -127,9 +127,9 @@ learning.
 reduction, and cascade classifiers for efficient face detection.
 - Deployed the model using "Streamlit" for a user-friendly interface.
 
-<!-- 
-[Finetune-Distill-Quantize-ORT](https://github.com/That1Panda/Finetune-Distill-Quantize-ORT)
--->
+ 
+[Face_Recognition](https://github.com/LinaSawwan/Face_Recognition)
+
 
 **Tools & Technologies:**  
 ![Python](https://img.shields.io/badge/Jupyter-3776AB?style=flat&logo=jupyter&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
@@ -145,9 +145,9 @@ The system predicts whether the speaker in the audio file is a male or a female.
 - Achieved a range of 68-72% accuracy in gender detection using precision and recall metrics.
 
 
-<!-- 
-[Finetune-Distill-Quantize-ORT](https://github.com/That1Panda/Finetune-Distill-Quantize-ORT)
--->
+ 
+[Gender_detection](https://github.com/LinaSawwan/Gender_detection)
+
 <br>
 
 **Tools & Technologies:**  
